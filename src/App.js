@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Asslam o Alikum.</h1>
-      <p>Here we are doing to install react.</p>
+      <p>Here we are doing to install react. yes</p>
     </div>
   );
 }
